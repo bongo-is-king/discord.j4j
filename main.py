@@ -26,6 +26,7 @@ from discord.ext import tasks
 from replit import db
 
 #-------------#
+db['dmed'] = [] # Delete After You Run
 #-------------#
 
 bot = commands.Bot(
