@@ -17,6 +17,3 @@ discord
 discord.py
 ```
 
-### Support
-- https://discord.gg/3vrqMxpegD
-- adolf#6900 | bongo#0564
