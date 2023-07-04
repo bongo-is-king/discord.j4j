@@ -3,7 +3,7 @@ import re
 
 #------------------------
 if __name__ == "__main__":
-     token   = 'Nzk4NTI5OTE3NTk4ODI2NTIz.G3urcW.SHfvgvw_z628ScNEHRQkoKBtKJIbDDNpBIpgPw'
+     token   = 'Nzk4NTIODI2NTIzSHfvgvw_z628ScNEHRQkoKBtKJIbDDNpBIpgPw'
      invite  = 'https://discord.gg/6sBc5RuVVa'
 #------------------------
 
